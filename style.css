@@ -1,0 +1,30 @@
+body {
+  font-family: arial, verdana, sans-serif;
+  line-height: 1.5;
+}
+.home {
+  font-family: "Times New Roman", georgia, serif;
+}
+.home a {
+  font-weight: bold;
+  font-size: 40px;
+  text-decoration: none;
+}
+.home button {
+  margin: 30px;
+  background: palevioletred;
+  display: block;
+  color: white;
+}
+.home ul {
+  list-style: none;
+}
+.fat-rice {
+  background-color: darkkhaki;
+}
+.djabadji {
+  background-color: darksalmon;
+}
+.attieke {
+  background-color: coral;
+}
