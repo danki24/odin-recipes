@@ -1,6 +1,8 @@
 body {
   font-family: arial, verdana, sans-serif;
   line-height: 1.5;
+  background-color: rgb(75, 66, 66);
+
 }
 .home {
   font-family: "Times New Roman", georgia, serif;
